@@ -10,7 +10,7 @@ public class ListagemCliente extends JPanel {
 	 * Create the panel.
 	 */
 	public ListagemCliente() {
-		setLayout(null);
+		setLayout(null);lkkkkk
 		
 		JLabel lblNewLabel = new JLabel("Listagem");
 		lblNewLabel.setBounds(122, 29, 121, 14);
